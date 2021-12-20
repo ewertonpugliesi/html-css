@@ -2,7 +2,8 @@
 
 # Curso de HTML5 e CSS3
 
-Material público para o ensino básico de HTML5 e CSS3 para alunos iniciantes. Acesse o material em PDF, analise o código disponibilizado para cada exercício e veja-os funcionando em execução direta via repositório GitHub.
+**Material público para o ensino básico de HTML5 e CSS3** para alunos iniciantes. Acesse o material em PDF, analise o código disponibilizado para cada exercício e veja-os funcionando em execução direta via repositório GitHub.Sendo este totalmente gratuito.
+Sendo este material podendo ser tambem encontrado no *YOUTUBE*.
 
 * [Acesse os PDFs das aulas clicando aqui](https://github.com/gustavoguanabara/html-css/tree/master/aulas-pdf)
 * [Código disponível para os exercícios](https://github.com/gustavoguanabara/html-css/tree/master/exercicios)
